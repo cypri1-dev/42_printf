@@ -28,3 +28,19 @@ cd 42_printf
 ```bash
 make
 ```
+
+## Features
+
+The ft_printf project offers the following features:
+
+- **Powerful Formatting**: With ft_printf, you can format and display a wide range of data types, including strings, integers, floating-point numbers, pointers, and more.
+
+- **Advanced Formatting Options**: ft_printf supports many formatting options such as specifying field width, precision, flags for alignment, zero-padding, signs, and more.
+
+- **Color Handling**: ft_printf also allows integrating ANSI color codes to add colors and enhance the readability of the output.
+
+- **Easy Customization**: You can easily extend and customize ft_printf by adding new features or modifying formatting options according to your specific needs.
+
+- **Compatible with Libft**: ft_printf is designed to be used in conjunction with the Libft library, providing a solid foundation of auxiliary functions to complement your project.
+
+- **Comprehensive Testing**: Test files are provided to allow you to validate the proper functioning of ft_printf with different usage scenarios and data types.
