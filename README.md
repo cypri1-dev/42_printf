@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/covers/cover-ft_printf.png" </h1>
 
 ## Description
-Ft_printf is a custom implementation of the printf function in C. It provides a flexible and customizable way to format and print data to the standard output stream. With ft_printf, you can format various types of data including strings, integers, floating-point numbers, and more. It supports many formatting options such as specifying field width, precision, flags for alignment, and conversion specifiers. This library allows developers to have greater control over output formatting and is useful for creating formatted output in a variety of contexts, including command-line interfaces, logging, and file generation.
+ft_printf is a custom implementation of the printf function in C. It provides a flexible and customizable way to format and print data to the standard output stream. With ft_printf, you can format various types of data including strings, integers, floating-point numbers, and more. It supports many formatting options such as specifying field width, precision, flags for alignment, and conversion specifiers. This library allows developers to have greater control over output formatting and is useful for creating formatted output in a variety of contexts, including command-line interfaces, logging, and file generation.
 
 ## Project Components Table
 
